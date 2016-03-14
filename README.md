@@ -1,2 +1,2 @@
 # hello-world
-on training
+on training using git
